@@ -11,7 +11,7 @@ backend - Ethereum Developement Network (Ganache), web3.js, truffle
   3) Install Metamask extension on Chrome
   4) Create a new network with port 7545 and chain ID 1337
   5) Use Ganache private key from one of the accounts created and import into metamask
-  6) To run the project:
+  6) To run the project: <br />
     (i) Clone this repository <br />
     (ii) cd to client directory and run npm install <br />
     (iii) Run **truffle migrate --reset** <br />
