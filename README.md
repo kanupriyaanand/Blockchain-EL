@@ -5,7 +5,7 @@ Know Your Customer is a mandatory process for banks and financial institutions t
 
 
 # Techonologies Used
-frontend - ReactJS
+frontend - ReactJS <br />
 backend - Ethereum Developement Network (Ganache), web3.js, truffle
 
 # Steps to run the project
