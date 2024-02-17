@@ -1,3 +1,6 @@
+# Introduction
+Know Your Customer is a mandatory process for banks and financial institutions to verify the identity of their clients. Traditional KYC processes are centralized, creating a single point of failure that hackers can target, leading to privacy breaches and data theft. A decentralized system reduces the risk of data breaches by distributing data across a network, rather than storing it in a central database.
+
 
 
 
